@@ -13,7 +13,21 @@
 
 A full-stack real-time chat application built with the MERN stack, featuring instant messaging, secure authentication, image sharing, and 32 beautiful themes.
 
-[Features](#-features) • [Tech Stack](#-tech-stack) • [Getting Started](#-getting-started) • [Environment Variables](#-environment-variables) • [API Endpoints](#-api-endpoints) • [Deployment](#-deployment)
+[Live Demo](#-live-demo) • [Features](#-features) • [Tech Stack](#-tech-stack) • [Getting Started](#-getting-started) • [Environment Variables](#-environment-variables) • [API Endpoints](#-api-endpoints) • [Deployment](#-deployment)
+
+</div>
+
+---
+
+## 🌐 Live Demo
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/NexChat-Live%20Demo-7928CA?style=for-the-badge&logo=render&logoColor=white)](https://nexchat-dg7z.onrender.com/login)
+
+### 🔗 [https://nexchat-dg7z.onrender.com](https://nexchat-dg7z.onrender.com/login)
+
+> ⚠️ The app is hosted on Render's free tier — it may take **30–60 seconds** to wake up on first load.
 
 </div>
 
@@ -241,6 +255,14 @@ NexChat supports **32 DaisyUI themes**:
 
 ---
 
+## 📸 Screenshots
+
+| Login Page | Chat Page | Home Page | Profile Page | Settings |
+|-----------|-----------|-----------|-------------|---------|
+| <img width="1919" height="1111" alt="Login" src="https://github.com/user-attachments/assets/75468643-f690-4c85-bf8a-e0c7a520c5e4" /> | <img width="1919" height="1152" alt="Chat" src="https://github.com/user-attachments/assets/5748a19a-b2dc-4efd-9fde-73242a4c455d" /> | <img width="1919" height="1070" alt="Home" src="https://github.com/user-attachments/assets/ff6faf1f-5a02-4b70-93ee-ac3219ec8ec6" /> | <img width="1919" height="1198" alt="Profile" src="https://github.com/user-attachments/assets/9c5e0c87-740a-4a99-b383-5ad575822ab0" /> | <img width="1909" height="1195" alt="Settings" src="https://github.com/user-attachments/assets/30869769-0f9f-4c29-b9d3-286032a8a0d9" /> |
+
+---
+
 ## ☁️ Deployment
 
 ### Backend — Render
@@ -260,16 +282,6 @@ NexChat supports **32 DaisyUI themes**:
    VITE_API_URL=https://your-backend.onrender.com/api
    ```
 4. Deploy!
-
----
-
-## 📸 Screenshots
-
-> Add screenshots of your app here
-
-| Login Page | Chat Page | Profile Page | Settings |
-|-----------|-----------|-------------|---------|
-| ![Login](#) | ![Chat](#) | ![Profile](#) | ![Settings](#) |
 
 ---
 
@@ -296,6 +308,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 **Chamidu Gihan**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chamidugihan)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-NexChat-7928CA?style=for-the-badge&logo=render&logoColor=white)](https://nexchat-dg7z.onrender.com/login)
 
 ---
 
